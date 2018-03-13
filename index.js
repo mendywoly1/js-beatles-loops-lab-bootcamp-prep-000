@@ -1,5 +1,3 @@
-console.log(musicians[0])
-
 function theBeatlesPlay(musicians, instruments) {
   var arr1 = []
   for(var i = 0; i > musicians.length ; i++) {
